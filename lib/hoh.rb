@@ -43,7 +43,7 @@ def naming_system
   # HoH all the way to Species!
   
    hasher = {
-  sub_category: "Kingdom",
+  sub_categorty "Kingdom",
   sub_category: {
      label: "Order",
     sub_category: {
