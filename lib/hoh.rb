@@ -49,5 +49,6 @@ def naming_system
     }
   }
  }
+ hasher
   
 end
