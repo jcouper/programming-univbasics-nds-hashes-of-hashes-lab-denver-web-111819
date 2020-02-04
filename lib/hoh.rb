@@ -45,19 +45,8 @@ def naming_system
    hasher = {
   :sub_categorty => {
     :sub_categorty => {
-      :sub_categorty => Order"
+      :sub_categorty => "Order"
     }
   }
   
-  
-  
-  "Kingdom",
-  sub_category: {
-     label: "Order",
-    sub_category: {
-       label: "Class"
-    }
-   }
- }
-
 end
