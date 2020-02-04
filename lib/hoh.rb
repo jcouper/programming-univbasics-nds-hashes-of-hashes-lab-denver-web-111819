@@ -47,12 +47,11 @@ def naming_system
     :sub_categorty => {
       :sub_categorty => {
         :label => "Order"
-        
       }
       }
     }
   }
  }
- hasher
+
   
 end
