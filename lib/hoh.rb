@@ -43,9 +43,9 @@ def naming_system
   # HoH all the way to Species!
   
    hasher = {
-  :sub_categorty => {
-    :sub_categorty => {
-      :sub_categorty => {
+  :sub_category => {
+    :sub_category => {
+      :sub_category => {
         :label => "Order",
       }
       }
